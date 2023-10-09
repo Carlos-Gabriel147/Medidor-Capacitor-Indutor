@@ -1,0 +1,21 @@
+Circuit: * C:\Users\carlo\Desktop\Python_Medidor_Capacitor_Indutor\ltspice\ltspice_simulation.asc
+
+.OP point found by inspection.
+
+Date: Thu Sep 28 14:15:32 2023
+Total elapsed time: 0.031 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 17178
+traniter = 17178
+tranpoints = 8590
+accept = 7208
+rejected = 1382
+matrix size = 3
+fillins = 0
+solver = Normal
+Matrix Compiler1:       3 opcodes  0.0/[0.0]/0.0
+Matrix Compiler2:      15 opcodes  0.0/[0.0]/0.0
+
